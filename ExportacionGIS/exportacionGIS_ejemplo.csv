@@ -1,0 +1,384 @@
+N_Gis;N_Pla;Demarcaci¢n;Unidad Ctra.;Carretera;PK;Tipo de Eje;Gis_X;Gis_Y;Direccional/C¢digo;C¢digo;Geometr¡a;Doc_WMFNombre;Tipo de Soporte;Pos_Angulo;Doc_WMFAncho;Doc_WMFAlto;Pla_OrdenFila;Sop_Panel
+1;1;Madrid;Madrid;A-5;10,742;Tronco;431827;4469174,56;Vertical;R-2;Oct¢gono;R2.Png;Poste;0,8744988;531;531;1;Frontal
+2;2;Madrid;Madrid;A-5;10,769;Tronco;431801,1;4469162,22;Vertical;R-101;C¡rculo;R101.Png;Poste;2,3951358;531;531;1;Frontal
+3;3;Madrid;Madrid;A-5;10,701;Tronco;431851,22;4469207,81;Vertical;R-400c;C¡rculo;R400C.Png;Poste;5,5136588;531;531;1;Frontal
+3;4;Madrid;Madrid;A-5;10,701;Tronco;431851,22;4469207,81;Vertical;R-1;Tri ngulo;R1.Png;Poste;5,5136588;736;649;2;Frontal
+4;5;Madrid;Madrid;A-5;10,674;Tronco;431869,71;4469228,27;Vertical;S-1a;Rect ngulo;S01A.Png;Poste;5,5181926;531;797;1;Frontal
+5;6;Madrid;Madrid;A-5;10,755;Tronco;431811,62;4469171,11;Vertical;R-107_3;C¡rculo;R107_3.Png;Poste;4,764972;531;531;1;Frontal
+6;7;Madrid;Madrid;A-5;10,738;Tronco;431798,97;4469207,98;Vertical;R-101;C¡rculo;R101.Png;Poste;3,2155316;531;531;1;Frontal
+7;8;Madrid;Madrid;A-5;10,746;Tronco;431794,72;4469201,81;Vertical;R-401a;C¡rculo;R401A.Png;Poste;3,9495435;531;531;1;Frontal
+8;9;Madrid;Madrid;A-5;10,76;Tronco;431785,89;4469190,03;Vertical;R-400d;C¡rculo;R400D.Png;Poste;3,0845115;531;531;1;Frontal
+8;10;Madrid;Madrid;A-5;10,76;Tronco;431785,89;4469190,03;Vertical;R-2;Oct¢gono;R2.Png;Poste;3,0845115;531;531;2;Frontal
+9;11;Madrid;Madrid;A-5;10,747;Tronco;431815,4;4469179,34;Vertical;R-400d;C¡rculo;R400D.Png;Poste;0,7853982;531;531;1;Frontal
+10;12;Madrid;Madrid;A-5;11,501;Tronco;431272,93;4468692,23;Vertical;R-400a;C¡rculo;R400A.Png;Poste;3,2564692;531;531;1;Frontal
+10;13;Madrid;Madrid;A-5;11,501;Tronco;431272,93;4468692,23;Vertical;R-2;Oct¢gono;R2.Png;Poste;3,2564692;531;531;2;Frontal
+11;14;Madrid;Madrid;A-5;11,545;Tronco;431243,41;4468663,86;Vertical;R-301_90;C¡rculo;R301_90.Png;Poste;2,3230941;531;531;1;Frontal
+12;15;Madrid;Madrid;A-5;11,574;Tronco;431224,03;4468643,75;Vertical;S-2a;Rect ngulo;S02A.Png;Poste;2,3656285;531;797;1;Frontal
+13;16;Madrid;Madrid;A-5;11,634;Tronco;431180,88;4468603,96;Vertical;S-62;Rect ngulo;S62.Png;Poste;2,3855979;956;1116;1;Frontal
+14;17;Madrid;Madrid;A-5;11,729;Tronco;431111,14;4468541,01;Vertical;P-14a;Tri ngulo;P14A.Png;Poste;2,3561945;736;648;1;Frontal
+14;18;Madrid;Madrid;A-5;11,729;Tronco;431111,14;4468541,01;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;2,3561945;531;531;2;Frontal
+15;19;Madrid;Madrid;A-5;11,786;Ramal;431072,34;4468506,76;Vertical;S-62;Rect ngulo;S62.Png;Poste;2,3561945;956;1116;1;Frontal
+16;20;Madrid;Madrid;A-5;11,895;Ramal;430996,35;4468449,59;Direccional;Direccional;;A5_MAD_H004_01251A.Png;Portico;1,9132693;2677;1033;1;Frontal
+16;21;Madrid;Madrid;A-5;11,895;Ramal;430996,35;4468449,59;Direccional;Direccional;;A5_MAD_H004_01251B.Png;Portico;1,9132693;2322;1033;1;Frontal
+17;22;Madrid;Madrid;A-5;11,86;Tronco;431033,76;4468456,82;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;2,1045045;531;531;1;Frontal
+18;23;Madrid;Madrid;A-5;11,93;Ramal;430969,12;4468430,12;Vertical;S-51;Cuadrado;S51.Png;Poste;1,9055333;531;531;1;Frontal
+19;24;Madrid;Madrid;A-5;12,003;Ramal;430902,99;4468419,3;Vertical;R-401a;C¡rculo;R401A.Png;Poste;5,0711597;531;531;1;Frontal
+20;25;Madrid;Madrid;A-5;11,972;Ramal;430936,55;4468422,7;Vertical;R-101;C¡rculo;R101.Png;Poste;4,9228985;531;531;1;Frontal
+21;26;Madrid;Madrid;A-5;11,989;Ramal;430935,35;4468395,16;Vertical;R-1;Tri ngulo;R1.Png;Poste;3,4846166;736;649;1;Frontal
+22;27;Madrid;Madrid;A-5;12,004;Tronco;430939,27;4468364,6;Vertical;R-400c;C¡rculo;R400C.Png;Poste;2,4475425;531;531;1;Frontal
+22;1779;Madrid;Madrid;A-5;12,004;Tronco;430939,27;4468364,6;Vertical;R-101;C¡rculo;R101.Png;Poste;2,4475425;531;531;1;Posterior
+23;28;Madrid;Madrid;A-5;12,009;Tronco;430926,37;4468366,7;Vertical;S-1a;Rect ngulo;S01A.Png;Poste;2,918619;531;797;1;Frontal
+24;29;Madrid;Madrid;A-5;12,078;Tronco;430869,85;4468327,26;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;0,5024213;531;531;1;Frontal
+25;30;Madrid;Madrid;A-5;12,053;Ramal;430856,28;4468379,79;Vertical;R-1;Tri ngulo;R1.Png;Poste;6,1211569;736;649;1;Frontal
+25;31;Madrid;Madrid;A-5;12,053;Ramal;430856,28;4468379,79;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;6,1211569;531;177;2;Frontal
+26;32;Madrid;Madrid;A-5;12,036;Ramal;430854,2;4468408,05;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;2,4227629;531;531;1;Frontal
+27;1709;Madrid;Madrid;A-5;12,055;Ramal;430840,39;4468395,37;Vertical;B3a;Panel;B3A.Png;Poste;2,7656321;944;236;1;Frontal
+28;1710;Madrid;Madrid;A-5;12,064;Ramal;430838,88;4468384,1;Vertical;B3a;Panel;B3A.Png;Poste;2,9272881;944;236;1;Frontal
+29;1711;Madrid;Madrid;A-5;12,068;Ramal;430838,4;4468373,4;Vertical;B3a;Panel;B3A.Png;Poste;3,0172379;944;236;1;Frontal
+30;1712;Madrid;Madrid;A-5;12,077;Ramal;430839,36;4468359,67;Vertical;B3a;Panel;B3A.Png;Poste;3,2469702;944;236;1;Frontal
+31;1713;Madrid;Madrid;A-5;12,084;Ramal;430842,39;4468346,58;Vertical;B3a;Panel;B3A.Png;Poste;3,2607435;944;236;1;Frontal
+32;1715;Madrid;Madrid;A-5;12,096;Ramal;430853,47;4468319,12;Vertical;B3a;Panel;B3A.Png;Poste;3,6625024;944;236;1;Frontal
+33;1714;Madrid;Madrid;A-5;12,091;Ramal;430846,7;4468333,17;Vertical;B3a;Panel;B3A.Png;Poste;3,5637415;944;236;1;Frontal
+34;33;Madrid;Madrid;A-5;12,092;Ramal;430807,17;4468372,93;Vertical;P-14b;Tri ngulo;P14B.Png;Poste;2,7438218;736;648;1;Frontal
+34;34;Madrid;Madrid;A-5;12,092;Ramal;430807,17;4468372,93;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;2,7438218;531;531;2;Frontal
+35;35;Madrid;Madrid;A-5;12,046;Tronco;430905,77;4468335,27;Vertical;R-400c;C¡rculo;R400C.Png;Poste;2,3259005;531;531;1;Frontal
+35;36;Madrid;Madrid;A-5;12,046;Tronco;430905,77;4468335,27;Vertical;R-1;Tri ngulo;R1.Png;Poste;2,3259005;736;649;2;Frontal
+36;37;Madrid;Madrid;A-5;12,194;Tronco;430786,73;4468250,14;Vertical;R-101;C¡rculo;R101.Png;Poste;5,9614347;531;531;1;Frontal
+37;38;Madrid;Madrid;A-5;12,214;Tronco;430787,37;4468222,36;Vertical;R-400a;C¡rculo;R400A.Png;Poste;4,1963549;531;531;1;Frontal
+38;39;Madrid;Madrid;A-5;12,231;Tronco;430767,26;4468219,01;Direccional;Direccional;;A5_MAD_H004_01248.Png;Preaviso;2,4932605;1387;1535;1;Frontal
+39;40;Madrid;Madrid;A-5;12,205;Tronco;430830,94;4468190,03;Direccional;Direccional;;A5_MAD_H004_01246.Png;FlechaD;5,471706;2216;991;1;Frontal
+40;41;Madrid;Madrid;A-5;12,29;Tronco;430771,63;4468132,76;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;5,5845255;531;531;1;Frontal
+40;42;Madrid;Madrid;A-5;12,29;Tronco;430771,63;4468132,76;Vertical;S-870;Cuadrado;S870.Png;Poste;5,5845255;472;236;2;Frontal
+41;43;Madrid;Madrid;A-5;12,196;Tronco;430848,29;4468184,28;Vertical;S-2a;Rect ngulo;S02A.Png;Poste;5,0891003;531;797;1;Frontal
+42;44;Madrid;Madrid;A-5;12,181;Tronco;430854,36;4468199,85;Vertical;B2D;Panel;B2D.Png;Poste;4,9337035;472;236;1;Frontal
+43;45;Madrid;Madrid;A-5;12,182;Tronco;430862,45;4468189,53;Vertical;R-308;C¡rculo;R308.Png;Farola;3,3015059;531;531;1;Frontal
+44;46;Madrid;Madrid;A-5;12,164;Tronco;430875,92;4468201,76;Vertical;B2D;Panel;B2D.Png;Poste;4,8565432;472;236;1;Frontal
+45;47;Madrid;Madrid;A-5;12,17;Ramal;430877,68;4468190,59;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;4,7457099;531;531;1;Frontal
+46;48;Madrid;Madrid;A-5;12,153;Ramal;430892,36;4468199,37;Vertical;B2D;Panel;B2D.Png;Poste;4,6906533;472;236;1;Frontal
+47;49;Madrid;Madrid;A-5;12,155;Ramal;430897,06;4468191,39;Vertical;R-308;C¡rculo;R308.Png;Poste;3,1415927;531;531;1;Frontal
+48;50;Madrid;Madrid;A-5;12,144;Ramal;430914,31;4468189,47;Vertical;R-308;C¡rculo;R308.Png;Poste;2,9774391;531;531;1;Frontal
+49;51;Madrid;Madrid;A-5;12,135;Ramal;430929,79;4468185,8;Vertical;R-308;C¡rculo;R308.Png;Poste;2,8517459;531;531;1;Frontal
+50;52;Madrid;Madrid;A-5;12,127;Ramal;430945,92;4468180,85;Vertical;R-308;C¡rculo;R308.Png;Poste;2,876018;531;531;1;Frontal
+51;53;Madrid;Madrid;A-5;12,119;Ramal;430965,24;4468173,03;Vertical;R-308L;C¡rculo;R308L.Png;Farola;2,787396;531;531;1;Frontal
+54;55;Madrid;Madrid;A-5;12,097;Ramal;430933,72;4468234,98;Vertical;R-308L;C¡rculo;R308L.Png;Poste;2,3629057;531;531;1;Frontal
+55;56;Madrid;Madrid;A-5;12,08;Tronco;430926,44;4468265,47;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;0,7168782;531;531;1;Frontal
+56;1716;Madrid;Madrid;A-5;12,079;Ramal;430943,69;4468248,87;Vertical;P-13a;Tri ngulo;P13A.Png;Poste;0,7188298;736;648;1;Frontal
+57;57;Madrid;Madrid;A-5;12,078;Ramal;431055,32;4468134,46;Direccional;Direccional;;A5_MAD_H004_01242A.Png;Portico;0,7998899;1771;1722;1;Frontal
+57;58;Madrid;Madrid;A-5;12,078;Ramal;431055,32;4468134,46;Direccional;Direccional;;A5_MAD_H004_01242B.Png;Portico;0,7998899;2225;1708;1;Frontal
+58;59;Madrid;Madrid;A-5;12,076;Ramal;431030,67;4468162,18;Direccional;Direccional;;A5_MAD_H004_01243.Png;FlechaID;0,5984189;1204;949;1;Frontal
+59;1949;Madrid;Madrid;A-5;12,069;Ramal;431002,42;4468202,04;Direccional;Direccional;;A5_MAD_H004_01252.Png;Confirmacion;0,486032;1328;1313;1;Frontal
+60;60;Madrid;Madrid;A-5;12,056;Ramal;431014,84;4468199,74;Direccional;Direccional;;A5_MAD_H004_01244A.Png;Portico;0,4993467;2293;1658;1;Frontal
+60;61;Madrid;Madrid;A-5;12,056;Ramal;431014,84;4468199,74;Direccional;Direccional;;A5_MAD_H004_01244B.Png;Portico;0,4993467;1968;1722;1;Frontal
+61;62;Madrid;Madrid;A-5;11,999;Ramal;430999,73;4468282,71;Vertical;R-301_80;C¡rculo;R301_80.Png;Poste;6,0586879;531;531;1;Frontal
+62;63;Madrid;Madrid;A-5;11,973;Ramal;431010,9;4468309,7;Vertical;P-31;Tri ngulo;P31.Png;Poste;5,7315304;736;648;1;Frontal
+63;64;Madrid;Madrid;A-5;11,944;Tronco;431027,75;4468334,32;Vertical;S-1a;Rect ngulo;S01A.Png;Poste;5,5131706;531;797;1;Frontal
+64;65;Madrid;Madrid;A-5;11,953;Tronco;431016,58;4468336,17;Vertical;R-400c;C¡rculo;R400C.Png;Poste;5,431219;531;531;1;Frontal
+64;1475;Madrid;Madrid;A-5;11,953;Tronco;431016,58;4468336,17;Vertical;R-101;C¡rculo;R101.Png;Poste;5,431219;531;531;1;Posterior
+65;66;Madrid;Madrid;A-5;12,41;Tronco;430643,71;4468097,63;Direccional;Direccional;;A5_MAD_H004_01249.Png;FlechaD;2,3132761;2110;991;1;Frontal
+66;67;Madrid;Madrid;A-5;12,394;Tronco;430653,03;4468109,16;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;2,0564184;531;531;1;Frontal
+66;68;Madrid;Madrid;A-5;12,394;Tronco;430653,03;4468109,16;Vertical;S-870;Cuadrado;S870.Png;Poste;2,0564184;472;236;2;Frontal
+67;69;Madrid;Madrid;A-5;12,42;Ramal;430622,21;4468104,85;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;1,5200784;531;531;1;Frontal
+68;70;Madrid;Madrid;A-5;12,74;Tronco;430413,37;4467874,32;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;1,8121517;531;531;1;Frontal
+69;71;Madrid;Madrid;A-5;12,733;Ramal;430410,38;4467887,94;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;1,8662373;531;531;1;Frontal
+70;72;Madrid;Madrid;A-5;12,709;Tronco;430430,36;4467899,84;Direccional;Direccional;;A5_MAD_H006_01253.Png;Confirmacion;2,0685214;1889;1948;1;Frontal
+71;73;Madrid;Madrid;A-5;12,68;Tronco;430456,47;4467913,49;Vertical;R-1;Tri ngulo;R1.Png;Poste;2,3147088;736;649;1;Frontal
+71;74;Madrid;Madrid;A-5;12,68;Tronco;430456,47;4467913,49;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;2,3147088;531;177;2;Frontal
+72;75;Madrid;Madrid;A-5;12,645;Tronco;430482,98;4467935,73;Vertical;P-4;Tri ngulo;P04.Png;Poste;2,3305589;736;648;1;Frontal
+73;76;Madrid;Madrid;A-5;12,777;Ramal;430364,29;4467874,85;Vertical;B2B;Panel;B2B.Png;Poste;2,0663478;944;236;1;Frontal
+74;77;Madrid;Madrid;A-5;12,78;Ramal;430373,45;4467861,12;Vertical;B2B;Panel;B2B.Png;Poste;2,0669768;944;236;1;Frontal
+75;78;Madrid;Madrid;A-5;12,776;Ramal;430371;4467868,89;Vertical;R-402;C¡rculo;R402.Png;Poste;2,142634;531;531;1;Frontal
+76;79;Madrid;Madrid;A-5;12,797;Tronco;430389,41;4467821,84;Vertical;R-301_90;C¡rculo;R301_90.Png;Poste;2,4952903;531;531;1;Frontal
+77;80;Madrid;Madrid;A-5;12,878;Tronco;430327,73;4467771,79;Vertical;R-1;Tri ngulo;R1.Png;Poste;2,5665203;736;649;1;Frontal
+78;81;Madrid;Madrid;A-5;12,962;Tronco;430265,51;4467718,8;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;2,0955919;531;531;1;Frontal
+79;82;Madrid;Madrid;A-5;12,96;Tronco;430260,3;4467727,32;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;2,1285054;531;531;1;Frontal
+80;83;Madrid;Madrid;A-5;12,92;Tronco;430296,91;4467745,41;Vertical;S-2a;Rect ngulo;S02A.Png;Poste;2,1679729;531;797;1;Frontal
+81;84;Madrid;Madrid;A-5;13,04;Tronco;430243,23;4467629,13;Vertical;S-1a;Rect ngulo;S01A.Png;Poste;5,4264797;531;797;1;Frontal
+82;1450;Madrid;Madrid;A-5;13,088;Tronco;430202,46;4467602,3;Vertical;R-400c;C¡rculo;R400C.Png;Poste;5,1760365;531;531;1;Frontal
+82;1451;Madrid;Madrid;A-5;13,088;Tronco;430202,46;4467602,3;Vertical;R-101;C¡rculo;R101.Png;Poste;5,1760365;531;531;1;Posterior
+83;85;Madrid;Madrid;A-5;13,098;Tronco;430197,39;4467592,35;Vertical;R-400a;C¡rculo;R400A.Png;Poste;0,826697;531;531;1;Frontal
+84;86;Madrid;Madrid;A-5;13,092;Tronco;430208,57;4467584,37;Vertical;R-400d;C¡rculo;R400D.Png;Poste;6,0082754;531;531;1;Frontal
+84;87;Madrid;Madrid;A-5;13,092;Tronco;430208,57;4467584,37;Vertical;R-2;Oct¢gono;R2.Png;Poste;6,0082754;531;531;2;Frontal
+86;89;Madrid;Madrid;A-5;12,89;Tronco;430326,73;4467756,01;Direccional;Direccional;;A5T_000-037_028_1.Png;FlechaD;2,3334713;1985;1750;1;Frontal
+87;90;Madrid;Madrid;A-5;13,082;Ramal;430225,17;4467572,37;Vertical;S-13;Cuadrado;S13.Png;Farola;2,5169573;531;531;1;Frontal
+88;91;Madrid;Madrid;A-5;13,077;Ramal;430234,1;4467565,46;Vertical;S-13;Cuadrado;S13.Png;Poste;5,4977871;531;531;1;Frontal
+89;92;Madrid;Madrid;A-5;13,09;Ramal;430217,91;4467569,82;Vertical;S-13;Cuadrado;S13.Png;Poste;0,9299231;531;531;1;Frontal
+90;93;Madrid;Madrid;A-5;13,107;Tronco;430194,31;4467572,52;Vertical;R-107_5.5;C¡rculo;R107_5.5.Png;Poste;5,1436738;531;531;1;Frontal
+91;94;Madrid;Madrid;A-5;13,097;Ramal;430213,93;4467562,89;Vertical;R-401a;C¡rculo;R401A.Png;Poste;0,7853982;531;531;1;Frontal
+92;95;Madrid;Madrid;A-5;13,105;Ramal;430201,4;4467561,36;Vertical;S-13;Cuadrado;S13.Png;Poste;4,1107354;531;531;1;Frontal
+93;96;Madrid;Madrid;A-5;13,124;Tronco;430182,04;4467561,1;Vertical;R-107_5.5;C¡rculo;R107_5.5.Png;Poste;4,9672293;531;531;1;Frontal
+94;97;Madrid;Madrid;A-5;13,107;Ramal;430208,5;4467541,38;Vertical;R-100;C¡rculo;R100.Png;Poste;2,3954756;531;531;1;Frontal
+95;98;Madrid;Madrid;A-5;13,111;Ramal;430201,23;4467549,09;Vertical;S-15a;Cuadrado;S15A.Png;Farola;2,3615996;531;531;1;Frontal
+95;99;Madrid;Madrid;A-5;13,111;Ramal;430201,23;4467549,09;Vertical;R-100;C¡rculo;R100.Png;Farola;2,3615996;531;531;2;Frontal
+96;100;Madrid;Madrid;A-5;13,107;Ramal;430171,26;4467553,78;Vertical;R-101;C¡rculo;R101.Png;Poste;2,3822109;531;531;1;Frontal
+97;101;Madrid;Madrid;A-5;13,141;Tronco;430163,47;4467563,76;Vertical;R-101;C¡rculo;R101.Png;Poste;2,4704489;531;531;1;Frontal
+98;102;Madrid;Madrid;A-5;13,121;Ramal;430149,48;4467533,95;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;5,4713782;531;531;1;Frontal
+99;103;Madrid;Madrid;A-5;13,132;Ramal;430132,83;4467541,44;Vertical;R-101;C¡rculo;R101.Png;Poste;5,6796131;531;531;1;Frontal
+100;104;Madrid;Madrid;A-5;13,139;Tronco;430120,9;4467547,65;Vertical;R-101;C¡rculo;R101.Png;Poste;5,7887255;531;531;1;Frontal
+101;105;Madrid;Madrid;A-5;13,127;Ramal;430138,94;4467543,81;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;5,5839926;531;531;1;Frontal
+102;106;Madrid;Madrid;A-5;13,147;Ramal;430116,59;4467521,43;Vertical;R-101;C¡rculo;R101.Png;Poste;5,5432106;531;531;1;Frontal
+103;107;Madrid;Madrid;A-5;13,144;Ramal;430120,29;4467523,16;Vertical;R-401a;C¡rculo;R401A.Png;Poste;5,6249174;531;531;1;Frontal
+105;109;Madrid;Madrid;A-5;13,246;Tronco;429983,3;4467603,98;Vertical;R-301_90;C¡rculo;R301_90.Png;Poste;1,4312141;531;531;1;Frontal
+105;110;Madrid;Madrid;A-5;13,246;Tronco;429983,3;4467603,98;Vertical;S-870;Cuadrado;S870.Png;Poste;1,4312141;472;236;2;Frontal
+106;111;Madrid;Madrid;A-5;13,309;Tronco;429908,59;4467621,23;Vertical;S-2a;Rect ngulo;S02A.Png;Poste;1,2631293;531;797;1;Frontal
+106;112;Madrid;Madrid;A-5;13,309;Tronco;429908,59;4467621,23;Vertical;S-870;Cuadrado;S870.Png;Poste;1,2631293;472;236;2;Frontal
+107;113;Madrid;Madrid;A-5;13,39;Tronco;429813,06;4467652,81;Vertical;R-301_70;C¡rculo;R301_70.Png;Poste;1,1195961;531;531;1;Frontal
+108;114;Madrid;Madrid;A-5;13,425;Tronco;429771,46;4467667,3;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;1,169773;531;531;1;Frontal
+109;115;Madrid;Madrid;A-5;13,463;Tronco;429722,73;4467675,29;Vertical;B2D;Panel;B2D.Png;Poste;1,3276425;472;236;1;Frontal
+110;116;Madrid;Madrid;A-5;13,448;Tronco;429741,07;4467665,97;Vertical;B2D;Panel;B2D.Png;Poste;1,3718503;472;236;1;Frontal
+111;117;Madrid;Madrid;A-5;13,475;Tronco;429711,2;4467688,44;Vertical;B2D;Panel;B2D.Png;Poste;1,2304144;472;236;1;Frontal
+112;118;Madrid;Madrid;A-5;13,462;Tronco;429729,68;4467689,63;Direccional;Direccional;;A5_MAD_H007_01267.Png;Confirmacion;0,8488051;2008;1893;1;Frontal
+113;119;Madrid;Madrid;A-5;13,487;Tronco;429695,24;4467684,9;Vertical;P-4;Tri ngulo;P04.Png;Poste;6,2083254;736;648;1;Frontal
+113;120;Madrid;Madrid;A-5;13,487;Tronco;429695,24;4467684,9;Vertical;R-301_50;C¡rculo;R301_50.Png;Poste;6,2083254;531;531;2;Frontal
+114;121;Madrid;Madrid;A-5;13,495;Ramal;429704,62;4467775,03;Vertical;S-13;Cuadrado;S13.Png;Poste;0,0618678;531;531;1;Frontal
+115;122;Madrid;Madrid;A-5;13,517;Ramal;429675,15;4467772,42;Direccional;Direccional;;A5_MAD_H007_01258.Png;Preaviso;3,0920461;1734;2191;1;Frontal
+116;123;Madrid;Madrid;A-5;13,545;Tronco;429624,1;4467711,61;Vertical;R-1;Tri ngulo;R1.Png;Poste;1,5707963;736;649;1;Frontal
+116;124;Madrid;Madrid;A-5;13,545;Tronco;429624,1;4467711,61;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;1,5707963;531;177;2;Frontal
+117;125;Madrid;Madrid;A-5;13,573;Tronco;429588,12;4467711,27;Vertical;S-1a;Rect ngulo;S01A.Png;Poste;1,4959365;531;797;1;Frontal
+118;126;Madrid;Madrid;A-5;13,613;Tronco;429536,08;4467701,51;Vertical;R-101;C¡rculo;R101.Png;Poste;4,5837921;531;531;1;Frontal
+118;127;Madrid;Madrid;A-5;13,613;Tronco;429536,08;4467701,51;Vertical;R-400c;C¡rculo;R400C.Png;Poste;4,5837921;531;531;1;Posterior
+119;128;Madrid;Madrid;A-5;13,649;Tronco;429492;4467712,08;Vertical;R-400c;C¡rculo;R400C.Png;Poste;1,5778383;531;531;1;Frontal
+119;129;Madrid;Madrid;A-5;13,649;Tronco;429492;4467712,08;Vertical;R-1;Tri ngulo;R1.Png;Poste;1,5778383;736;649;2;Frontal
+120;130;Madrid;Madrid;A-5;13,645;Tronco;429493,11;4467668,05;Vertical;R-400c;C¡rculo;R400C.Png;Poste;4,6132994;531;531;1;Frontal
+120;131;Madrid;Madrid;A-5;13,645;Tronco;429493,11;4467668,05;Vertical;R-1;Tri ngulo;R1.Png;Poste;4,6132994;736;649;2;Frontal
+121;132;Madrid;Madrid;A-5;13,658;Ramal;429474,58;4467631,61;Vertical;S-1a;Rect ngulo;S01A.Png;Poste;0,7968919;531;797;1;Frontal
+122;133;Madrid;Madrid;A-5;13,668;Tronco;429463,93;4467664,87;Vertical;B2B;Panel;B2B.Png;Poste;0,804264;944;236;1;Frontal
+123;134;Madrid;Madrid;A-5;13,673;Tronco;429457,28;4467646,54;Vertical;B2B;Panel;B2B.Png;Poste;1,4504135;944;236;1;Frontal
+124;135;Madrid;Madrid;A-5;13,667;Ramal;429462,98;4467628,5;Vertical;B2B;Panel;B2B.Png;Poste;1,9624962;944;236;1;Frontal
+124;138;Madrid;Madrid;A-5;13,667;Ramal;429462,98;4467628,5;Vertical;B2B;Panel;B2B.Png;Poste;1,9624962;944;236;2;Frontal
+125;136;Madrid;Madrid;A-5;13,636;Ramal;429499,62;4467611,03;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;0,9764108;531;531;1;Frontal
+126;137;Madrid;Madrid;A-5;13,639;Ramal;429493,8;4467600,59;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;0,9553407;531;531;1;Frontal
+127;139;Madrid;Madrid;A-5;13,706;Tronco;429416,93;4467646,17;Vertical;P-4;Tri ngulo;P04.Png;Poste;4,227911;736;648;1;Frontal
+128;140;Madrid;Madrid;A-5;13,711;Ramal;429411,11;4467632,86;Vertical;P-4;Tri ngulo;P04.Png;Poste;4,2487414;736;648;1;Frontal
+129;141;Madrid;Madrid;A-5;13,78;Tronco;429328,22;4467668;Vertical;R-301_70;C¡rculo;R301_70.Png;Poste;4,5969623;531;531;1;Frontal
+130;142;Madrid;Madrid;A-5;13,781;Tronco;429326,84;4467654,79;Vertical;R-301_70;C¡rculo;R301_70.Png;Poste;4,5586814;531;531;1;Frontal
+131;143;Madrid;Madrid;A-5;13,666;Ramal;429463,74;4467620,49;Vertical;R-1;Tri ngulo;R1.Png;Poste;4,1769695;736;649;1;Frontal
+131;144;Madrid;Madrid;A-5;13,666;Ramal;429463,74;4467620,49;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;4,1769695;531;177;2;Frontal
+132;145;Madrid;Madrid;A-5;13,672;Ramal;429456,06;4467608,96;Vertical;R-1;Tri ngulo;R1.Png;Poste;4,0873664;736;649;1;Frontal
+132;146;Madrid;Madrid;A-5;13,672;Ramal;429456,06;4467608,96;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;4,0873664;531;177;2;Frontal
+133;147;Madrid;Madrid;A-5;13,626;Ramal;429508,22;4467570,99;Direccional;Direccional;;A5_MAD_H007_01262.Png;Confirmacion;4,0819876;2212;1718;1;Frontal
+134;148;Madrid;Madrid;A-5;13,598;Ramal;429538,82;4467554,58;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;4,1444283;531;531;1;Frontal
+135;149;Madrid;Madrid;A-5;13,548;Ramal;429593,15;4467528,34;Vertical;R-1;Tri ngulo;R1.Png;Poste;4,2948626;736;649;1;Frontal
+135;150;Madrid;Madrid;A-5;13,548;Ramal;429593,15;4467528,34;Vertical;R-101;C¡rculo;R101.Png;Poste;4,2948626;531;531;1;Posterior
+136;151;Madrid;Madrid;A-5;13,541;Ramal;429603,1;4467535,64;Vertical;R-1;Tri ngulo;R1.Png;Poste;4,2428763;736;649;1;Frontal
+136;152;Madrid;Madrid;A-5;13,541;Ramal;429603,1;4467535,64;Vertical;R-101;C¡rculo;R101.Png;Poste;4,2428763;531;531;1;Posterior
+137;153;Madrid;Madrid;A-5;13,558;Ramal;429585,66;4467559,04;Vertical;R-400c;C¡rculo;R400C.Png;Poste;1,1767081;531;531;1;Frontal
+137;154;Madrid;Madrid;A-5;13,558;Ramal;429585,66;4467559,04;Vertical;R-1;Tri ngulo;R1.Png;Poste;1,1767081;736;649;2;Frontal
+138;1501;Madrid;Madrid;A-5;13,477;Ramal;429661,68;4467482,07;Vertical;R-1;Tri ngulo;R1.Png;Poste;0,7853982;736;649;1;Frontal
+138;1502;Madrid;Madrid;A-5;13,477;Ramal;429661,68;4467482,07;Vertical;R-101;C¡rculo;R101.Png;Poste;0,7853982;531;531;1;Posterior
+139;155;Madrid;Madrid;A-5;13,494;Ramal;429648,93;4467518,68;Vertical;R-101;C¡rculo;R101.Png;Poste;5,542006;531;531;1;Frontal
+139;156;Madrid;Madrid;A-5;13,494;Ramal;429648,93;4467518,68;Vertical;R-1;Tri ngulo;R1.Png;Poste;5,542006;736;649;1;Posterior
+140;1509;Madrid;Madrid;A-5;13,507;Ramal;429636,39;4467526,96;Vertical;R-1;Tri ngulo;R1.Png;Poste;2,3874344;736;649;1;Frontal
+140;1510;Madrid;Madrid;A-5;13,507;Ramal;429636,39;4467526,96;Vertical;R-101;C¡rculo;R101.Png;Poste;2,3874344;531;531;1;Posterior
+141;157;Madrid;Madrid;A-5;13,514;Ramal;429630,21;4467544,16;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;1,9919167;531;531;1;Frontal
+142;158;Madrid;Madrid;A-5;13,511;Ramal;429633,16;4467535,68;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;2,0036053;531;531;1;Frontal
+144;160;Madrid;Madrid;A-5;13,476;Ramal;429685,2;4467577,47;Direccional;Direccional;;A5_MAD_H007_01265.Png;Preaviso;6,1156528;2008;1893;1;Frontal
+145;161;Madrid;Madrid;A-5;13,494;Ramal;429658,58;4467561,54;Direccional;Direccional;;195.Png;FlechaD;2,8530051;1003;354;1;Frontal
+147;163;Madrid;Madrid;A-5;13,44;Ramal;429693,13;4467443,81;Direccional;Direccional;;A5_MAD_H007_01263.Png;Preaviso;0,6588061;2036;1866;1;Frontal
+149;165;Madrid;Madrid;A-5;13,511;Tronco;429667,07;4467699,49;Direccional;Direccional;;A5_MAD_H007_01259.Png;FlechaD;2,8454774;1223;590;1;Frontal
+150;166;Madrid;Madrid;A-5;13,502;Ramal;429638,6;4467512,27;Vertical;B2B;Panel;B2B.Png;Poste;2,735704;944;236;1;Frontal
+151;167;Madrid;Madrid;A-5;13,527;Ramal;429606,17;4467504,68;Vertical;B2B;Panel;B2B.Png;Poste;4,0242441;944;236;1;Frontal
+152;168;Madrid;Madrid;A-5;13,523;Ramal;429612,28;4467511,58;Vertical;R-402;C¡rculo;R402.Png;Poste;3,9269908;531;531;1;Frontal
+153;169;Madrid;Madrid;A-5;13,518;Ramal;429611,41;4467475,51;Vertical;B2B;Panel;B2B.Png;Poste;5,3215525;944;236;1;Frontal
+154;170;Madrid;Madrid;A-5;13,523;Ramal;429606,29;4467482,41;Vertical;R-402;C¡rculo;R402.Png;Poste;5,2342231;531;531;1;Frontal
+155;171;Madrid;Madrid;A-5;13,526;Ramal;429603,92;4467489,7;Vertical;B2B;Panel;B2B.Png;Poste;4,9841811;944;236;1;Frontal
+156;172;Madrid;Madrid;A-5;13,489;Ramal;429648,33;4467486,12;Vertical;B2B;Panel;B2B.Png;Poste;0,8970395;944;236;1;Frontal
+157;173;Madrid;Madrid;A-5;13,489;Ramal;429646,09;4467480,34;Vertical;R-402;C¡rculo;R402.Png;Poste;0,9783692;531;531;1;Frontal
+158;174;Madrid;Madrid;A-5;13,492;Ramal;429642,02;4467476,13;Vertical;B2B;Panel;B2B.Png;Poste;0,8630858;944;236;1;Frontal
+159;175;Madrid;Madrid;A-5;13,518;Ramal;429619,16;4467514,9;Vertical;B2B;Panel;B2B.Png;Poste;3,7562556;944;236;1;Frontal
+160;176;Madrid;Madrid;A-5;13,5;Ramal;429641,36;4467508,06;Vertical;R-402;C¡rculo;R402.Png;Poste;2,7435784;531;531;1;Frontal
+161;177;Madrid;Madrid;A-5;13,494;Ramal;429645,96;4467503,99;Vertical;B2B;Panel;B2B.Png;Poste;2,8725569;944;236;1;Frontal
+162;1515;Madrid;Madrid;A-5;14,655;Tronco;428447,02;4467414,83;Vertical;S-63;Rect ngulo;S63.Png;Poste;5,1390165;1417;1240;1;Frontal
+163;178;Madrid;Madrid;A-5;14,671;Tronco;428432,67;4467406,78;Direccional;Direccional;;A5_MAD_H009_01272.Png;Preaviso;5,152785;1744;2180;1;Frontal
+164;179;Madrid;Madrid;A-5;14,728;Tronco;428380,56;4467388,37;Vertical;R-101;C¡rculo;R101.Png;Poste;2,109018;531;531;1;Frontal
+165;180;Madrid;Madrid;A-5;14,767;Tronco;428348,42;4467362,87;Vertical;B2B;Panel;B2B.Png;Poste;0,7853982;944;236;1;Frontal
+166;181;Madrid;Madrid;A-5;14,773;Ramal;428352,03;4467340,16;Vertical;B2B;Panel;B2B.Png;Poste;0,9736197;944;236;1;Frontal
+167;182;Madrid;Madrid;A-5;14,773;Ramal;428358,74;4467323,65;Vertical;B2B;Panel;B2B.Png;Poste;1,1964629;944;236;1;Frontal
+168;183;Madrid;Madrid;A-5;14,758;Ramal;428386,37;4467298,89;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;0,5423027;531;531;1;Frontal
+169;184;Madrid;Madrid;A-5;14,846;Ramal;428283,56;4467316,88;Direccional;Direccional;;A5_MAD_H009_01268.Png;Preaviso;4,4674104;2146;1771;1;Frontal
+170;185;Madrid;Madrid;A-5;14,861;Ramal;428264,84;4467321,21;Vertical;P-4;Tri ngulo;P04.Png;Poste;4,6435324;736;648;1;Frontal
+171;186;Madrid;Madrid;A-5;14,862;Tronco;428257,89;4467334,37;Vertical;B2D;Panel;B2D.Png;Poste;4,8542859;472;236;1;Frontal
+171;1994;Madrid;Madrid;A-5;14,862;Tronco;428257,89;4467334,37;Vertical;B2D;Panel;B2D.Png;Poste;4,8542859;472;236;2;Frontal
+171;1995;Madrid;Madrid;A-5;14,862;Tronco;428257,89;4467334,37;Vertical;B2D;Panel;B2D.Png;Poste;4,8542859;472;236;3;Frontal
+172;187;Madrid;Madrid;A-5;14,839;Ramal;428283,77;4467332,6;Vertical;B2D;Panel;B2D.Png;Poste;4,9471115;472;236;1;Frontal
+173;188;Madrid;Madrid;A-5;14,82;Ramal;428306,24;4467327,13;Vertical;B2D;Panel;B2D.Png;Poste;4,9869644;472;236;1;Frontal
+174;189;Madrid;Madrid;A-5;14,818;Tronco;428300,18;4467345,76;Vertical;R-1;Tri ngulo;R1.Png;Poste;3,8448232;736;649;1;Frontal
+174;190;Madrid;Madrid;A-5;14,818;Tronco;428300,18;4467345,76;Vertical;S-800_100;Cuadrado;S800_100.Png;Poste;3,8448232;531;177;2;Frontal
+175;191;Madrid;Madrid;A-5;14,763;Ramal;428388,43;4467281,11;Direccional;Direccional;;A5_MAD_H009_01271.Png;FlechaD;1,6137808;1012;590;1;Frontal
+176;192;Madrid;Madrid;A-5;14,769;Ramal;428384,29;4467273,91;Vertical;R-1;Tri ngulo;R1.Png;Poste;3,9065854;736;649;1;Frontal
+176;193;Madrid;Madrid;A-5;14,769;Ramal;428384,29;4467273,91;Vertical;R-101;C¡rculo;R101.Png;Poste;3,9065854;531;531;1;Posterior
+177;194;Madrid;Madrid;A-5;14,781;Ramal;428377,31;4467260,7;Vertical;R-1;Tri ngulo;R1.Png;Poste;3,770389;736;649;1;Frontal
+177;195;Madrid;Madrid;A-5;14,781;Ramal;428377,31;4467260,7;Vertical;R-101;C¡rculo;R101.Png;Poste;3,770389;531;531;1;Posterior
+178;196;Madrid;Madrid;A-5;14,768;Ramal;428391,68;4467259,23;Vertical;R-402;C¡rculo;R402.Png;Poste;4,3034811;531;531;1;Frontal
+179;197;Madrid;Madrid;A-5;14,762;Ramal;428396,02;4467263,86;Vertical;B2B;Panel;B2B.Png;Poste;4,1905548;944;236;1;Frontal
+180;198;Madrid;Madrid;A-5;14,77;Ramal;428392,17;4467253,9;Vertical;B2B;Panel;B2B.Png;Poste;4,4150239;944;236;1;Frontal
+181;199;Madrid;Madrid;A-5;14,908;Tronco;428215,36;4467315,9;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;5,1799892;531;531;1;Frontal
+181;200;Madrid;Madrid;A-5;14,908;Tronco;428215,36;4467315,9;Vertical;S-870;Cuadrado;S870.Png;Poste;5,1799892;472;236;2;Frontal
+182;201;Madrid;Madrid;A-5;14,882;Ramal;428178,1;4467462,65;Vertical;B2B;Panel;B2B.Png;Poste;5,1247994;944;236;1;Frontal
+183;202;Madrid;Madrid;A-5;14,923;Ramal;428135,3;4467453,17;Vertical;B2B;Panel;B2B.Png;Poste;5,8565578;944;236;1;Frontal
+184;203;Madrid;Madrid;A-5;14,951;Ramal;428113,11;4467435,11;Vertical;B2B;Panel;B2B.Png;Poste;0,7853982;944;236;1;Frontal
+185;204;Madrid;Madrid;A-5;14,966;Ramal;428106,92;4467412,41;Vertical;B2B;Panel;B2B.Png;Poste;0,7853982;944;236;1;Frontal
+186;205;Madrid;Madrid;A-5;14,973;Ramal;428105,89;4467397,44;Vertical;B2B;Panel;B2B.Png;Poste;0,9827937;944;236;1;Frontal
+187;206;Madrid;Madrid;A-5;14,973;Ramal;428112,08;4467384,54;Vertical;B2B;Panel;B2B.Png;Poste;1,1246907;944;236;1;Frontal
+187;1991;Madrid;Madrid;A-5;14,973;Ramal;428112,08;4467384,54;Vertical;B2B;Panel;B2B.Png;Poste;1,1246907;944;236;2;Frontal
+187;1992;Madrid;Madrid;A-5;14,973;Ramal;428112,08;4467384,54;Vertical;B2B;Panel;B2B.Png;Poste;1,1246907;944;236;3;Frontal
+188;207;Madrid;Madrid;A-5;14,915;Tronco;428176,1;4467384,6;Vertical;P-13a;Tri ngulo;P13A.Png;Poste;2,0980836;736;648;1;Frontal
+188;208;Madrid;Madrid;A-5;14,915;Tronco;428176,1;4467384,6;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;2,0980836;531;531;2;Frontal
+188;209;Madrid;Madrid;A-5;14,915;Tronco;428176,1;4467384,6;Vertical;S-870;Cuadrado;S870.Png;Poste;2,0980836;472;236;3;Frontal
+189;210;Madrid;Madrid;A-5;15,617;Tronco;427579,57;4466966,48;Vertical;S-870;Cuadrado;S870.Png;Poste;5,2751261;472;236;2;Frontal
+189;1681;Madrid;Madrid;A-5;15,617;Tronco;427579,57;4466966,48;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;5,2751261;531;531;1;Frontal
+190;211;Madrid;Madrid;A-5;15,489;Tronco;427693;4467033,78;Vertical;R-400a;C¡rculo;R400A.Png;Poste;0,4756952;531;531;1;Frontal
+191;212;Madrid;Madrid;A-5;15,455;Tronco;427722,24;4467051,82;Vertical;P-20;Tri ngulo;P20.Png;Poste;4,4158431;736;648;1;Frontal
+192;213;Madrid;Madrid;A-5;15,455;Tronco;427724,51;4467049,04;Vertical;R-308;C¡rculo;R308.Png;Poste;0,377249;531;531;1;Frontal
+193;214;Madrid;Madrid;A-5;15,461;Ramal;427723,83;4467037,44;Vertical;R-1;Tri ngulo;R1.Png;Poste;0;736;649;1;Frontal
+194;215;Madrid;Madrid;A-5;15,429;Ramal;427775,87;4467011,31;Vertical;R-308;C¡rculo;R308.Png;Farola;2,4729033;531;531;1;Frontal
+194;216;Madrid;Madrid;A-5;15,429;Ramal;427775,87;4467011,31;Vertical;S-800;Rect ngulo;S800.Png;Farola;2,4729033;531;177;2;Frontal
+195;217;Madrid;Madrid;A-5;15,518;Tronco;427665,78;4467020,74;Vertical;R-301_30;C¡rculo;R301_30.Png;Poste;5,3179338;531;531;1;Frontal
+195;218;Madrid;Madrid;A-5;15,518;Tronco;427665,78;4467020,74;Vertical;S-870;Cuadrado;S870.Png;Poste;5,3179338;472;236;2;Frontal
+196;219;Madrid;Madrid;A-5;15,411;Ramal;427791,84;4467021,92;Vertical;R-308;C¡rculo;R308.Png;Poste;5,6535401;531;531;1;Frontal
+196;220;Madrid;Madrid;A-5;15,411;Ramal;427791,84;4467021,92;Vertical;CajGrua;Rect ngulo;CajGrua.Png;Poste;5,6535401;531;206;2;Frontal
+197;221;Madrid;Madrid;A-5;15,417;Ramal;427775,38;4467036,83;Vertical;R-303;C¡rculo;R303.Png;Farola;0,9567773;531;531;1;Frontal
+197;222;Madrid;Madrid;A-5;15,417;Ramal;427775,38;4467036,83;Vertical;CajGrua;Rect ngulo;CajGrua.Png;Farola;0,9567773;531;206;2;Frontal
+198;1516;Madrid;Madrid;A-5;15,406;Ramal;427771,21;4467068,16;Vertical;R-302;C¡rculo;R302.Png;Poste;5,2863364;531;531;1;Frontal
+198;1517;Madrid;Madrid;A-5;15,406;Ramal;427771,21;4467068,16;Vertical;R-101;C¡rculo;R101.Png;Poste;5,2863364;531;531;1;Posterior
+199;223;Madrid;Madrid;A-5;15,399;Tronco;427770,82;4467083,05;Vertical;R-1;Tri ngulo;R1.Png;Poste;5,3558902;736;649;1;Frontal
+200;224;Madrid;Madrid;A-5;15,373;Tronco;427793,27;4467097,89;Vertical;R-101;C¡rculo;R101.Png;Poste;2,0955919;531;531;1;Frontal
+201;225;Madrid;Madrid;A-5;17,212;Tronco;426214,96;4466222,3;Vertical;R-400c;C¡rculo;R400C.Png;Poste;2,0119756;531;531;1;Frontal
+201;226;Madrid;Madrid;A-5;17,212;Tronco;426214,96;4466222,3;Vertical;R-1;Tri ngulo;R1.Png;Poste;2,0119756;736;649;2;Frontal
+202;1519;Madrid;Madrid;A-5;17,099;Tronco;426322,54;4466259,63;Vertical;R-400c;C¡rculo;R400C.Png;Poste;2,0503155;531;531;1;Frontal
+202;1520;Madrid;Madrid;A-5;17,099;Tronco;426322,54;4466259,63;Vertical;R-101;C¡rculo;R101.Png;Poste;2,0503155;531;531;1;Posterior
+203;227;Madrid;Madrid;A-5;17,086;Ramal;426326,75;4466283,79;Vertical;R-1;Tri ngulo;R1.Png;Poste;2,5332675;736;649;1;Frontal
+203;228;Madrid;Madrid;A-5;17,086;Ramal;426326,75;4466283,79;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;2,5332675;531;177;2;Frontal
+204;229;Madrid;Madrid;A-5;17,034;Ramal;426361,24;4466338,58;Vertical;R-401a;C¡rculo;R401A.Png;Poste;2,8966138;531;531;1;Frontal
+205;230;Madrid;Madrid;A-5;17,041;Ramal;426360,16;4466322,9;Vertical;B2D;Panel;B2D.Png;Poste;2,9805007;472;236;1;Frontal
+206;231;Madrid;Madrid;A-5;17,052;Ramal;426354,73;4466307,18;Vertical;B2D;Panel;B2D.Png;Poste;2,9495447;472;236;1;Frontal
+207;232;Madrid;Madrid;A-5;17,064;Ramal;426347,62;4466291,84;Vertical;B2D;Panel;B2D.Png;Poste;2,7660699;472;236;1;Frontal
+208;233;Madrid;Madrid;A-5;17,076;Tronco;426339,2;4466278,74;Vertical;B2D;Panel;B2D.Png;Poste;2,8374969;472;236;1;Frontal
+209;234;Madrid;Madrid;A-5;17,031;Ramal;426378,12;4466303,44;Vertical;B2D;Panel;B2D.Png;Poste;1,2870022;472;236;1;Frontal
+210;235;Madrid;Madrid;A-5;17,034;Ramal;426372,32;4466309,99;Vertical;B2D;Panel;B2D.Png;Poste;1,1714033;472;236;1;Frontal
+211;236;Madrid;Madrid;A-5;17,036;Ramal;426366,9;4466317,47;Vertical;B2D;Panel;B2D.Png;Poste;1,0919983;472;236;1;Frontal
+212;237;Madrid;Madrid;A-5;17,033;Ramal;426363,89;4466333,69;Vertical;R-101;C¡rculo;R101.Png;Poste;3,2067176;531;531;1;Frontal
+213;238;Madrid;Madrid;A-5;17,021;Ramal;426381,61;4466326,08;Vertical;R-101;C¡rculo;R101.Png;Poste;3,5791024;531;531;1;Frontal
+214;239;Madrid;Madrid;A-5;16,977;Tronco;426433,37;4466309,49;Vertical;P-13a;Tri ngulo;P13A.Png;Poste;2,0344442;736;648;1;Frontal
+214;240;Madrid;Madrid;A-5;16,977;Tronco;426433,37;4466309,49;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;2,0344442;531;531;2;Frontal
+214;241;Madrid;Madrid;A-5;16,977;Tronco;426433,37;4466309,49;Vertical;S-870;Cuadrado;S870.Png;Poste;2,0344442;472;236;3;Frontal
+215;242;Madrid;Madrid;A-5;16,977;Ramal;426399,87;4466392,65;Vertical;R-1;Tri ngulo;R1.Png;Poste;5,2640439;736;649;1;Frontal
+215;243;Madrid;Madrid;A-5;16,977;Ramal;426399,87;4466392,65;Vertical;R-101;C¡rculo;R101.Png;Poste;5,2640439;531;531;1;Posterior
+216;244;Madrid;Madrid;A-5;16,982;Ramal;426391,96;4466397,68;Vertical;R-1;Tri ngulo;R1.Png;Poste;5,6191391;736;649;1;Frontal
+216;245;Madrid;Madrid;A-5;16,982;Ramal;426391,96;4466397,68;Vertical;R-101;C¡rculo;R101.Png;Poste;5,6191391;531;531;1;Posterior
+217;246;Madrid;Madrid;A-5;16,994;Ramal;426382,98;4466390,7;Vertical;R-401a;C¡rculo;R401A.Png;Poste;5,7077606;531;531;1;Frontal
+218;247;Madrid;Madrid;A-5;16,931;Ramal;426438,97;4466406,1;Vertical;R-1;Tri ngulo;R1.Png;Poste;0,6889246;736;649;1;Frontal
+218;248;Madrid;Madrid;A-5;16,931;Ramal;426438,97;4466406,1;Vertical;R-101;C¡rculo;R101.Png;Poste;0,6889246;531;531;1;Posterior
+219;249;Madrid;Madrid;A-5;16,92;Ramal;426444,19;4466420,22;Vertical;R-1;Tri ngulo;R1.Png;Poste;0,4756954;736;649;1;Frontal
+220;250;Madrid;Madrid;A-5;16,919;Ramal;426453,09;4466402,05;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;0,6171914;531;531;1;Frontal
+221;251;Madrid;Madrid;A-5;16,894;Ramal;426496,41;4466360,99;Vertical;R-1;Tri ngulo;R1.Png;Poste;0,779993;736;649;1;Frontal
+221;252;Madrid;Madrid;A-5;16,894;Ramal;426496,41;4466360,99;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;0,779993;531;177;2;Frontal
+222;253;Madrid;Madrid;A-5;16,938;Tronco;426465,13;4466326,64;Vertical;P-4;Tri ngulo;P04.Png;Poste;2,0540493;736;648;1;Frontal
+223;254;Madrid;Madrid;A-5;16,896;Tronco;426512,08;4466319,47;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;3,9178168;531;531;1;Frontal
+224;255;Madrid;Madrid;A-5;16,888;Tronco;426526,05;4466307;Vertical;P-4;Tri ngulo;P04.Png;Poste;3,8693624;736;648;1;Frontal
+225;256;Madrid;Madrid;A-5;16,883;Tronco;426535,91;4466295,65;Vertical;R-1;Tri ngulo;R1.Png;Poste;3,7076475;736;649;1;Frontal
+225;257;Madrid;Madrid;A-5;16,883;Tronco;426535,91;4466295,65;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;3,7076475;531;177;2;Frontal
+226;258;Madrid;Madrid;A-5;16,873;Tronco;426539,65;4466312,98;Vertical;P-4;Tri ngulo;P04.Png;Poste;0,4778311;736;648;1;Frontal
+227;259;Madrid;Madrid;A-5;16,856;Tronco;426570,33;4466284,92;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;0,8215271;531;531;1;Frontal
+228;260;Madrid;Madrid;A-5;16,821;Tronco;426603,18;4466294,21;Vertical;B2D;Panel;B2D.Png;Poste;0,5759186;472;236;1;Frontal
+228;261;Madrid;Madrid;A-5;16,821;Tronco;426603,18;4466294,21;Vertical;B2D;Panel;B2D.Png;Poste;0,5759186;472;236;2;Frontal
+229;262;Madrid;Madrid;A-5;16,797;Tronco;426616,74;4466318,85;Vertical;B2D;Panel;B2D.Png;Poste;0,1124271;472;236;1;Frontal
+230;263;Madrid;Madrid;A-5;16,776;Tronco;426633,45;4466332,07;Vertical;B2D;Panel;B2D.Png;Poste;0,0624188;472;236;1;Frontal
+231;264;Madrid;Madrid;A-5;16,956;Ramal;426488,57;4466227,66;Vertical;R-1;Tri ngulo;R1.Png;Poste;4,7836965;736;649;1;Frontal
+231;265;Madrid;Madrid;A-5;16,956;Ramal;426488,57;4466227,66;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;4,7836965;531;177;2;Frontal
+232;266;Madrid;Madrid;A-5;16,908;Ramal;426534,73;4466238,89;Vertical;B2B;Panel;B2B.Png;Poste;4,9872988;944;236;1;Frontal
+232;270;Madrid;Madrid;A-5;16,908;Ramal;426534,73;4466238,89;Vertical;B2B;Panel;B2B.Png;Poste;4,9872988;944;236;2;Frontal
+233;267;Madrid;Madrid;A-5;16,887;Ramal;426559,06;4466233,09;Vertical;B2B;Panel;B2B.Png;Poste;5,026621;944;236;1;Frontal
+234;268;Madrid;Madrid;A-5;16,872;Ramal;426581,32;4466224,29;Vertical;B2B;Panel;B2B.Png;Poste;4,7872488;944;236;1;Frontal
+235;269;Madrid;Madrid;A-5;16,859;Ramal;426599,84;4466214,19;Vertical;B2B;Panel;B2B.Png;Poste;4,7946769;944;236;1;Frontal
+236;271;Madrid;Madrid;A-5;16,853;Ramal;426594,78;4466239,39;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;3,836331;531;531;1;Frontal
+237;272;Madrid;Madrid;A-5;16,874;Ramal;426589,74;4466202,4;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;4,1709044;531;531;1;Frontal
+238;273;Madrid;Madrid;A-5;16,736;Tronco;426670,65;4466343,48;Vertical;R-1;Tri ngulo;R1.Png;Poste;5,3922977;736;649;1;Frontal
+238;274;Madrid;Madrid;A-5;16,736;Tronco;426670,65;4466343,48;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;5,3922977;531;177;2;Frontal
+239;275;Madrid;Madrid;A-5;16,701;Tronco;426693,55;4466372,63;Vertical;R-400c;C¡rculo;R400C.Png;Poste;5,1932762;531;531;1;Frontal
+239;276;Madrid;Madrid;A-5;16,701;Tronco;426693,55;4466372,63;Vertical;R-101;C¡rculo;R101.Png;Poste;5,1932762;531;531;1;Posterior
+240;277;Madrid;Madrid;A-5;16,738;Ramal;426679,85;4466320,84;Vertical;R-400c;C¡rculo;R400C.Png;Poste;5,4299303;531;531;1;Frontal
+240;278;Madrid;Madrid;A-5;16,738;Ramal;426679,85;4466320,84;Vertical;R-101;C¡rculo;R101.Png;Poste;5,4299303;531;531;1;Posterior
+241;279;Madrid;Madrid;A-5;16,731;Ramal;426691,33;4466314,61;Vertical;R-101;C¡rculo;R101.Png;Poste;2,5779218;531;531;1;Frontal
+242;280;Madrid;Madrid;A-5;16,689;Ramal;426724,01;4466340,43;Vertical;R-400c;C¡rculo;R400C.Png;Poste;5,4071273;531;531;1;Frontal
+242;281;Madrid;Madrid;A-5;16,689;Ramal;426724,01;4466340,43;Vertical;R-1;Tri ngulo;R1.Png;Poste;5,4071273;736;649;2;Frontal
+243;282;Madrid;Madrid;A-5;16,655;Tronco;426734,69;4466388,76;Vertical;S-1a;Rect ngulo;S01A.Png;Poste;5,3050864;531;797;1;Frontal
+244;283;Madrid;Madrid;A-5;16,594;Tronco;426783,85;4466421,32;Vertical;R-400c;C¡rculo;R400C.Png;Poste;5,3249267;531;531;1;Frontal
+244;284;Madrid;Madrid;A-5;16,594;Tronco;426783,85;4466421,32;Vertical;R-1;Tri ngulo;R1.Png;Poste;5,3249267;736;649;2;Frontal
+245;285;Madrid;Madrid;A-5;16,77;Ramal;426677,44;4466259,62;Vertical;R-1;Tri ngulo;R1.Png;Poste;0,3364016;736;649;1;Frontal
+245;286;Madrid;Madrid;A-5;16,77;Ramal;426677,44;4466259,62;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;0,3364016;531;177;2;Frontal
+246;287;Madrid;Madrid;A-5;16,828;Ramal;426613,57;4466258,08;Vertical;S-13;Cuadrado;S13.Png;Farola;0,3089307;531;531;1;Frontal
+247;288;Madrid;Madrid;A-5;16,836;Ramal;426609,96;4466246,73;Vertical;S-13;Cuadrado;S13.Png;Poste;0,3947913;531;531;1;Frontal
+248;289;Madrid;Madrid;A-5;16,785;Ramal;426662,39;4466258,22;Vertical;B2D;Panel;B2D.Png;Poste;0,6287963;472;236;1;Frontal
+248;290;Madrid;Madrid;A-5;16,785;Ramal;426662,39;4466258,22;Vertical;B2D;Panel;B2D.Png;Poste;0,6287963;472;236;2;Frontal
+249;291;Madrid;Madrid;A-5;16,778;Ramal;426659,77;4466276,81;Vertical;B2D;Panel;B2D.Png;Poste;0,6540828;472;236;1;Frontal
+250;292;Madrid;Madrid;A-5;16,769;Ramal;426662,77;4466290,16;Vertical;B2D;Panel;B2D.Png;Poste;0,3832841;472;236;1;Frontal
+251;293;Madrid;Madrid;A-5;16,798;Ramal;426659,5;4466227,12;Vertical;S-13;Cuadrado;S13.Png;Poste;2,1332943;531;531;1;Frontal
+252;294;Madrid;Madrid;A-5;16,829;Ramal;426629,38;4466222,69;Vertical;R-401a;C¡rculo;R401A.Png;Poste;3,8494265;531;531;1;Frontal
+253;295;Madrid;Madrid;A-5;16,858;Ramal;426618,37;4466176,81;Vertical;R-1;Tri ngulo;R1.Png;Poste;4,0737539;736;649;1;Frontal
+253;296;Madrid;Madrid;A-5;16,858;Ramal;426618,37;4466176,81;Vertical;S-13;Cuadrado;S13.Png;Poste;4,0737539;531;531;2;Frontal
+253;297;Madrid;Madrid;A-5;16,858;Ramal;426618,37;4466176,81;Vertical;R-101;C¡rculo;R101.Png;Poste;4,0737539;531;531;1;Posterior
+254;298;Madrid;Madrid;A-5;16,843;Ramal;426610,38;4466226,54;Vertical;P-20a;Tri ngulo;P20A.Png;Poste;3,9338873;736;648;1;Frontal
+255;299;Madrid;Madrid;A-5;16,849;Ramal;426619,48;4466193,24;Vertical;R-1;Tri ngulo;R1.Png;Poste;4,0984742;736;649;1;Frontal
+255;300;Madrid;Madrid;A-5;16,849;Ramal;426619,48;4466193,24;Vertical;R-101;C¡rculo;R101.Png;Poste;4,0984742;531;531;1;Posterior
+256;301;Madrid;Madrid;A-5;16,847;Ramal;426623,85;4466189,74;Vertical;S-13;Cuadrado;S13.Png;Poste;4,1537896;531;531;1;Frontal
+257;302;Madrid;Madrid;A-5;16,837;Ramal;426629,3;4466204,46;Vertical;R-1;Tri ngulo;R1.Png;Poste;3,4176895;736;649;1;Frontal
+257;303;Madrid;Madrid;A-5;16,837;Ramal;426629,3;4466204,46;Vertical;R-101;C¡rculo;R101.Png;Poste;3,4176895;531;531;1;Posterior
+258;304;Madrid;Madrid;A-5;16,825;Ramal;426638,09;4466212,51;Vertical;R-1;Tri ngulo;R1.Png;Poste;4,134487;736;649;1;Frontal
+258;305;Madrid;Madrid;A-5;16,825;Ramal;426638,09;4466212,51;Vertical;R-101;C¡rculo;R101.Png;Poste;4,134487;531;531;1;Posterior
+259;306;Madrid;Madrid;A-5;16,825;Ramal;426636,2;4466215,56;Vertical;S-13;Cuadrado;S13.Png;Poste;4,0621614;531;531;1;Frontal
+260;307;Madrid;Madrid;A-5;18,524;Tronco;425069,96;4465565,3;Vertical;P-4;Tri ngulo;P04.Png;Poste;2,0651605;736;648;1;Frontal
+260;308;Madrid;Madrid;A-5;18,524;Tronco;425069,96;4465565,3;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;2,0651605;531;531;2;Frontal
+261;309;Madrid;Madrid;A-5;18,587;Tronco;425015,23;4465533,51;Vertical;R-1;Tri ngulo;R1.Png;Poste;1,6575344;736;649;1;Frontal
+261;310;Madrid;Madrid;A-5;18,587;Tronco;425015,23;4465533,51;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;1,6575344;531;177;2;Frontal
+262;311;Madrid;Madrid;A-5;18,579;Ramal;425014,53;4465547,13;Vertical;R-1;Tri ngulo;R1.Png;Poste;1,6827524;736;649;1;Frontal
+262;312;Madrid;Madrid;A-5;18,579;Ramal;425014,53;4465547,13;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;1,6827524;531;177;2;Frontal
+263;313;Madrid;Madrid;A-5;18,647;Ramal;424929,77;4465543,97;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;1,7214322;531;531;1;Frontal
+264;314;Madrid;Madrid;A-5;18,654;Ramal;424932,15;4465529,8;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;1,6567909;531;531;1;Frontal
+265;315;Madrid;Madrid;A-5;18,698;Ramal;424867,54;4465542,01;Vertical;R-1;Tri ngulo;R1.Png;Poste;1,412556;736;649;1;Frontal
+265;316;Madrid;Madrid;A-5;18,698;Ramal;424867,54;4465542,01;Vertical;R-101;C¡rculo;R101.Png;Poste;1,412556;531;531;1;Posterior
+266;317;Madrid;Madrid;A-5;18,703;Ramal;424873,57;4465525,59;Vertical;R-1;Tri ngulo;R1.Png;Poste;1,6914199;736;649;1;Frontal
+266;318;Madrid;Madrid;A-5;18,703;Ramal;424873,57;4465525,59;Vertical;R-101;C¡rculo;R101.Png;Poste;1,6914199;531;531;1;Posterior
+267;319;Madrid;Madrid;A-5;18,671;Tronco;424950,35;4465481,76;Vertical;B2D;Panel;B2D.Png;Poste;6,0412648;472;236;1;Frontal
+268;320;Madrid;Madrid;A-5;18,662;Ramal;424949,88;4465495,33;Vertical;B2D;Panel;B2D.Png;Poste;5,9661296;472;236;1;Frontal
+269;321;Madrid;Madrid;A-5;18,661;Ramal;424941,46;4465508,24;Vertical;B2D;Panel;B2D.Png;Poste;6,1809786;472;236;1;Frontal
+270;322;Madrid;Madrid;A-5;18,663;Ramal;424930,89;4465517,5;Vertical;B2D;Panel;B2D.Png;Poste;0,0491408;472;236;1;Frontal
+271;323;Madrid;Madrid;A-5;18,668;Ramal;424919,48;4465524,46;Vertical;B2D;Panel;B2D.Png;Poste;0,1054893;472;236;1;Frontal
+272;324;Madrid;Madrid;A-5;18,682;Ramal;424900,2;4465526,2;Vertical;B2D;Panel;B2D.Png;Poste;0,4856221;472;236;1;Frontal
+273;325;Madrid;Madrid;A-5;18,695;Ramal;424886,17;4465522,36;Vertical;B2D;Panel;B2D.Png;Poste;0,9853911;472;236;1;Frontal
+274;326;Madrid;Madrid;A-5;18,768;Ramal;424858,85;4465438,4;Vertical;R-401a;C¡rculo;R401A.Png;Poste;0,4118581;531;531;1;Frontal
+275;327;Madrid;Madrid;A-5;18,757;Ramal;424854,27;4465460,75;Vertical;R-1;Tri ngulo;R1.Png;Poste;0,204018;736;649;1;Frontal
+275;328;Madrid;Madrid;A-5;18,757;Ramal;424854,27;4465460,75;Vertical;R-101;C¡rculo;R101.Png;Poste;0,204018;531;531;1;Posterior
+276;329;Madrid;Madrid;A-5;18,74;Tronco;424903,32;4465428,55;Vertical;R-400c;C¡rculo;R400C.Png;Farola;2,3424968;531;531;1;Frontal
+276;330;Madrid;Madrid;A-5;18,74;Tronco;424903,32;4465428,55;Vertical;R-1;Tri ngulo;R1.Png;Farola;2,3424968;736;649;2;Frontal
+277;331;Madrid;Madrid;A-5;18,699;Tronco;424941,49;4465448,33;Vertical;R-400c;C¡rculo;R400C.Png;Poste;2,2411273;531;531;1;Frontal
+277;332;Madrid;Madrid;A-5;18,699;Tronco;424941,49;4465448,33;Vertical;R-101;C¡rculo;R101.Png;Poste;2,2411273;531;531;1;Posterior
+278;333;Madrid;Madrid;A-5;18,7;Tronco;424946,27;4465440,62;Vertical;R-101;C¡rculo;R101.Png;Poste;5,4347131;531;531;1;Frontal
+279;334;Madrid;Madrid;A-5;18,783;Tronco;424913,49;4465350,74;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;0,4733561;531;531;1;Frontal
+280;335;Madrid;Madrid;A-5;18,81;Tronco;424901,78;4465324,56;Vertical;R-304;C¡rculo;R304.Png;Poste;3,5574042;531;531;1;Frontal
+281;336;Madrid;Madrid;A-5;18,905;Ramal;424861,51;4465228,58;Vertical;P-4;Tri ngulo;P04.Png;Poste;1,4074302;736;648;1;Frontal
+282;337;Madrid;Madrid;A-5;18,935;Ramal;424825,33;4465227,03;Vertical;P-13a;Tri ngulo;P13A.Png;Poste;4,6463695;736;648;1;Frontal
+283;338;Madrid;Madrid;A-5;18,961;Tronco;424781,8;4465235,73;Vertical;B2B;Panel;B2B.Png;Poste;6,2432066;944;236;1;Frontal
+284;339;Madrid;Madrid;A-5;18,93;Ramal;424818,71;4465241,35;Vertical;B2B;Panel;B2B.Png;Poste;6,1137723;944;236;1;Frontal
+285;340;Madrid;Madrid;A-5;18,904;Tronco;424780,75;4465320,53;Vertical;R-1;Tri ngulo;R1.Png;Poste;2,4275022;736;649;1;Frontal
+285;341;Madrid;Madrid;A-5;18,904;Tronco;424780,75;4465320,53;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;2,4275022;531;177;2;Frontal
+286;342;Madrid;Madrid;A-5;19,084;Tronco;424685,59;4465160,97;Vertical;R-301_60;C¡rculo;R301_60.Png;Poste;5,5269051;531;531;1;Frontal
+286;343;Madrid;Madrid;A-5;19,084;Tronco;424685,59;4465160,97;Vertical;S-870;Cuadrado;S870.Png;Poste;5,5269051;472;236;2;Frontal
+287;344;Madrid;Madrid;A-5;20,715;Tronco;423931,67;4463733,02;Vertical;R-301_80;C¡rculo;R301_80.Png;Poste;2,7319463;531;531;1;Frontal
+288;345;Madrid;Madrid;A-5;20,793;Tronco;423900,91;4463660,69;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;2,5273431;531;531;1;Frontal
+289;346;Madrid;Madrid;A-5;20,901;Tronco;423857,2;4463561,28;Vertical;R-101;C¡rculo;R101.Png;Poste;5,9704843;531;531;1;Frontal
+290;347;Madrid;Madrid;A-5;20,902;Tronco;423865,52;4463557,28;Vertical;R-101;C¡rculo;R101.Png;Poste;5,8871039;531;531;1;Frontal
+291;348;Madrid;Madrid;A-5;20,849;Tronco;423922,11;4463592,6;Vertical;R-1;Tri ngulo;R1.Png;Poste;6,0101767;736;649;1;Frontal
+291;349;Madrid;Madrid;A-5;20,849;Tronco;423922,11;4463592,6;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;6,0101767;531;177;2;Frontal
+292;1370;Madrid;Madrid;A-5;20,849;Tronco;423914,71;4463595,61;Vertical;R-400c;C¡rculo;R400C.Png;Poste;5,8707748;531;531;1;Frontal
+292;1371;Madrid;Madrid;A-5;20,849;Tronco;423914,71;4463595,61;Vertical;R-101;C¡rculo;R101.Png;Poste;5,8707748;531;531;1;Posterior
+293;350;Madrid;Madrid;A-5;21,089;Tronco;423807,39;4463378,83;Vertical;R-101;C¡rculo;R101.Png;Poste;5,8397369;531;531;1;Frontal
+294;1366;Madrid;Madrid;A-5;21,083;Tronco;423797,06;4463389,89;Vertical;R-400c;C¡rculo;R400C.Png;Poste;2,7768578;531;531;1;Frontal
+294;1367;Madrid;Madrid;A-5;21,083;Tronco;423797,06;4463389,89;Vertical;R-101;C¡rculo;R101.Png;Poste;2,7768578;531;531;1;Posterior
+295;351;Madrid;Madrid;A-5;21,063;Tronco;423797,67;4463411,22;Vertical;P-15a;Tri ngulo;P15A.Png;Poste;3,1611978;736;648;1;Frontal
+296;352;Madrid;Madrid;A-5;21,041;Tronco;423797,24;4463435,85;Vertical;R-301_20;C¡rculo;R301_20.Png;Poste;3,608774;531;531;1;Frontal
+297;353;Madrid;Madrid;A-5;21,047;Tronco;423808,84;4463424,28;Vertical;R-400d;C¡rculo;R400D.Png;Poste;4,551297;531;531;1;Frontal
+298;354;Madrid;Madrid;A-5;21,139;Tronco;423801,87;4463327,28;Vertical;R-301_40;C¡rculo;R301_40.Png;Poste;5,9385379;531;531;1;Frontal
+299;355;Madrid;Madrid;A-5;21,151;Tronco;423762,09;4463332,17;Vertical;R-1;Tri ngulo;R1.Png;Poste;2,8231425;736;649;1;Frontal
+299;356;Madrid;Madrid;A-5;21,151;Tronco;423762,09;4463332,17;Vertical;S-800_150;Rect ngulo;S800_150.Png;Poste;2,8231425;531;177;2;Frontal
+300;357;Madrid;Madrid;A-5;21,3;Tronco;423699,83;4463199,04;Vertical;R-400c;C¡rculo;R400C.Png;Poste;2,8144947;531;531;1;Frontal
+300;358;Madrid;Madrid;A-5;21,3;Tronco;423699,83;4463199,04;Vertical;R-1;Tri ngulo;R1.Png;Poste;2,8144947;736;649;2;Frontal
