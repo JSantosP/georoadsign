@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IntermediateData2KML", "IntermediateData2KML\IntermediateData2KML.vbproj", "{B7F450A9-0160-41FB-B5A0-411FA4A8A10D}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F450A9-0160-41FB-B5A0-411FA4A8A10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F450A9-0160-41FB-B5A0-411FA4A8A10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F450A9-0160-41FB-B5A0-411FA4A8A10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F450A9-0160-41FB-B5A0-411FA4A8A10D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

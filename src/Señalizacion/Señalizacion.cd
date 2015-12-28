@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Señalizacion.Placa">
+    <Position X="7.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAAAQAAgAAAAAAAAAgAYAKCEAAqAIAAAAAAAAAAECAA=</HashCode>
+      <FileName>Placas\Placa.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Circular">
+    <Position X="12.75" Y="6" Width="2" />
+    <InheritanceLine Type="Señalizacion.Placa" ManuallyRouted="true">
+      <Path>
+        <Point X="8.75" Y="4.94" />
+        <Point X="8.75" Y="5.362" />
+        <Point X="13.75" Y="5.362" />
+        <Point X="13.75" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Placas\Tipos\Circular.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Octogonal">
+    <Position X="3.5" Y="6" Width="2" />
+    <InheritanceLine Type="Señalizacion.Placa" ManuallyRouted="true">
+      <Path>
+        <Point X="8.75" Y="4.94" />
+        <Point X="8.75" Y="5.362" />
+        <Point X="4.5" Y="5.362" />
+        <Point X="4.5" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Placas\Tipos\Octogonal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Rectangular">
+    <Position X="5.75" Y="6" Width="2" />
+    <InheritanceLine Type="Señalizacion.Placa" ManuallyRouted="true">
+      <Path>
+        <Point X="8.75" Y="4.94" />
+        <Point X="8.75" Y="5.362" />
+        <Point X="6.75" Y="5.362" />
+        <Point X="6.75" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAABgAAAAIAAAAAgAAABABAAAAgAAAA=</HashCode>
+      <FileName>Placas\Tipos\Rectangular.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Romboidal">
+    <Position X="8" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Placas\Tipos\Romboidal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Triangular">
+    <Position X="10.25" Y="6" Width="2.25" />
+    <InheritanceLine Type="Señalizacion.Placa" ManuallyRouted="true">
+      <Path>
+        <Point X="8.75" Y="4.94" />
+        <Point X="8.75" Y="5.362" />
+        <Point X="11.375" Y="5.362" />
+        <Point X="11.375" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Placas\Tipos\Triangular.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.TriangularInvertida">
+    <Position X="15" Y="6" Width="2" />
+    <InheritanceLine Type="Señalizacion.Placa" ManuallyRouted="true">
+      <Path>
+        <Point X="8.75" Y="4.94" />
+        <Point X="8.75" Y="5.362" />
+        <Point X="16" Y="5.362" />
+        <Point X="16" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Placas\Tipos\TriangularInvertida.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Señal">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CQEAABAQgAFAACQIhAIRAAAAgQISACBACAEBADAAABA=</HashCode>
+      <FileName>Señal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.ElementoSoporte">
+    <Position X="2.75" Y="19.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAgAAAAAIgBggAAAASEAAIwIAABABAAAAgEAAA=</HashCode>
+      <FileName>Soportes\Elementos de composición\ElementoSoporte.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Poste">
+    <Position X="0.5" Y="25" Width="2" />
+    <InheritanceLine Type="Señalizacion.ElementoSoporte" FixedFromPoint="true">
+      <Path>
+        <Point X="3.5" Y="24.267" />
+        <Point X="3.5" Y="24.625" />
+        <Point X="1.5" Y="24.625" />
+        <Point X="1.5" Y="25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soportes\Elementos de composición\SubElementos\Poste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Travesaño">
+    <Position X="4.75" Y="25" Width="2" />
+    <InheritanceLine Type="Señalizacion.ElementoSoporte" FixedFromPoint="true">
+      <Path>
+        <Point X="4.25" Y="24.267" />
+        <Point X="4.25" Y="24.625" />
+        <Point X="5.75" Y="24.625" />
+        <Point X="5.75" Y="25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soportes\Elementos de composición\SubElementos\Travesaño.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Soporte">
+    <Position X="7" Y="9.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAQAAAAAAIAAAAAAAIAIQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soportes\Soporte.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Banderola">
+    <Position X="0.5" Y="12.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAACKIAQAABEAAAAAAAAAAQAAUAEBAAAAAIEAAA=</HashCode>
+      <FileName>Soportes\Tipos\Banderola.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Doble">
+    <Position X="5.25" Y="12.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAABBBAEAAAQAAAEAAAABAAAAAAAAQAIEAAABAAAAAA=</HashCode>
+      <FileName>Soportes\Tipos\Doble.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Portico">
+    <Position X="9.5" Y="12.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAACKMAYAAAEAAAAAAAAAAAAAQAIEAAAAAAEAAA=</HashCode>
+      <FileName>Soportes\Tipos\Portico.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Señalizacion.Simple">
+    <Position X="13.75" Y="12.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAARAEAAAQAAAAAAAAAAAAAAAAAQAIEBAAAAAAAAA=</HashCode>
+      <FileName>Soportes\Tipos\Simple.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Señalizacion.My.Resources.Resources">
+    <Position X="3.25" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAABQAACAABgBEAAAAQAAAAAAAAAAACAAAJE=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
